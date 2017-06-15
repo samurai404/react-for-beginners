@@ -1,0 +1,31 @@
+{
+  "name": "reactbeginners",
+  "version": "1.0.0",
+  "description": "i will explain haw to create react project from 0",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samurai404/react-for-beginners.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "hello",
+    "world"
+  ],
+  "author": "samurai404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samurai404/react-for-beginners/issues"
+  },
+  "homepage": "https://github.com/samurai404/react-for-beginners#readme",
+  "dependencies": {
+    "react": "^15.6.0",
+    "react-dom": "^15.6.0",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
